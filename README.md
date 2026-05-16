@@ -14,8 +14,8 @@
 
 
 
-//<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybr-coder&show_icons=true&locale=en&layout=compact" alt="cybr-coder" /></p>
+[//]: # <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybr-coder&show_icons=true&locale=en&layout=compact" alt="cybr-coder" /></p>
 
-//<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybr-coder&show_icons=true&locale=en" alt="cybr-coder" /></p>
+[//]: #<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybr-coder&show_icons=true&locale=en" alt="cybr-coder" /></p>
 
-//<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybr-coder&" alt="cybr-coder" /></p>
+[//]: #<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybr-coder&" alt="cybr-coder" /></p>
