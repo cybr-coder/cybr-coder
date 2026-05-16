@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lawrence Kelvin Nyarko</h1>
-<h3 align="center">🎓 Software Engineering Student at ALX Africa 🚀 Passionate about crafting elegant code and building innovative solutions 🌐 Exploring the world of technology, one project at a time 🔧 Proficient in, JavaScript, Bash and C and eager to learn more 🌟 Open-source enthusiast and contributor 🌱 Learning, growing, and embracing challenges 🤖 Bringing ideas to life through lines of code #StudentOfCode #OpenSourceAdvocate #TechEnthusiast</h3>
+<h3 align="center">🎓 Cybersecurity student at Universität des Saarlandes 🚀 Passionate about crafting elegant code and building innovative solutions 🌐 Exploring the world of technology, one project at a time 🔧 Proficient in, JavaScript, Bash, C, and RISCV eager to learn more 🌟 Open-source enthusiast and contributor 🌱 Learning, growing, and embracing challenges 🤖 Bringing ideas to life through lines of code #StudentOfCode #OpenSourceAdvocate #TechEnthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybr-coder&label=Profile%20views&color=0e75b6&style=flat" alt="cybr-coder" /> </p>
 
